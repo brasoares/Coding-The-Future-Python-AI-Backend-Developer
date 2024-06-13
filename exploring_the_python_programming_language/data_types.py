@@ -4,6 +4,7 @@ print(1.5 + 1 + 0.5)
 print(True)
 print(False)
 print("Python")
+print('999')
 
 int()
 float()
